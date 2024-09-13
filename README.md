@@ -54,15 +54,12 @@ Whether you're managing a single server or multiple systems, this script provide
 
 ### 💻 ☆ Languages & Technologies :
 
-[![Languages](https://skillicons.dev/icons?i=python)]
+![Languages](https://skillicons.dev/icons?i=python)
 
 -----
 ### 💻 Need Help : 
 [!] Contact : https://t.me/payforsmurf | Discord : @tjrsencrime.
 
 
-### 📲 ☆ Socials :
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/softwaretobi)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/payforsmurf)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
 
