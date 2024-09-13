@@ -23,7 +23,7 @@ You may also need to install vnstat and tcpdump if they are not already installe
 Initialize the vnstat database for network monitoring:
 
 - sudo vnstat -u -i eth0
-- 
+
 4. Set Up Watchdog Permissions
 
 Ensure that the script has the necessary permissions to read and write files in the directories you wish to monitor. You might need to adjust permissions or run the script with elevated privileges:
